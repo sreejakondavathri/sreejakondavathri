@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning DSA,java full stack web development.
 - 📫 Reach me through
      email:sreejakondavathri@gmail.com
-     linkedin:
 - ⚡ Fun fact: once I get interest in anything I dig deeper and deeper into it.
 
 <!---
