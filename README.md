@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreejakondavathri
-- 👀 I’m interested in web development,cyber security.
-- 🌱 I’m currently learning DSA,java full stack web development.
+- 👀 I’m interested in web development,machine learning.
+- 🌱 I’m currently learning DSA, full stack web development, LLM.
 - 📫 Reach me through
      email:sreejakondavathri@gmail.com
 - ⚡ Fun fact: once I get interest in anything I dig deeper and deeper into it.
